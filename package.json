@@ -1,0 +1,27 @@
+{
+  "name": "microwave-discord-bot",
+  "version": "1.0.0",
+  "description": "Discord bot that makes microwave noise",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VojtechNovotny/microwave-discord-bot.git"
+  },
+  "keywords": [
+    "microwave"
+  ],
+  "author": "Vojtěch Novotný",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VojtechNovotny/microwave-discord-bot/issues"
+  },
+  "homepage": "https://github.com/VojtechNovotny/microwave-discord-bot#readme",
+  "dependencies": {
+    "discord.js": "^14.15.2",
+    "dotenv": "^16.4.5"
+  },
+  "type": "module"
+}
